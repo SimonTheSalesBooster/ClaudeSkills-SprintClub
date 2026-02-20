@@ -1,7 +1,7 @@
-# Awesome Claude Skills
+# Claude Skills
 
-## 📚 Table of Contents  
-- [Awesome Claude Skills](#awesome-claude-skills)
+## 📚 Skills Overview 
+- [Claude Skills](#claude-skills)
   - [📚 Table of Contents](#-table-of-contents)
   - [📄 Document Skills](#-document-skills)
   - [🛠 Development \& Code Tools](#-development--code-tools)
@@ -16,11 +16,7 @@
   - [🔧 Utility \& Automation](#-utility--automation)
   - [🗂️ Collections](#-collections)
   - [🤝 Contribution](#-contribution)
-  - [📬 Contact](#-contact)
 
-
->[!Tip]
->If you use Claude to build web applications, do yourself a favor and use [VibeSec-Skill](https://github.com/BehiSecc/VibeSec-Skill) to avoid getting hacked.
 
 
 ## 📄 Document Skills  
