@@ -90,7 +90,7 @@
 - [video-prompting-skill](https://github.com/Square-Zero-Labs/video-prompting-skill) - Draft and refine prompts for video generation models (LTX-2, Sora, Veo 3, etc.) 
 
 
-## 🏥 Health & Life Sciences
+## 🍀 Health & Life Sciences
 - [claude-ally-health](https://github.com/huifer/Claude-Ally-Health) - A comprehensive health assistant for Claude to analyze medical reports, track health metrics, and provide personalized wellness suggestions.
 
 
