@@ -3,7 +3,7 @@
 ## 🐆 Skills Overview 
 - [Claude Skills](#claude-skills)
   - [🐬 Table of Contents](#-table-of-contents)
-  - [⚡️Marketing Skills]
+  - [⚡️Marketing Skills] (#-sales.closer/SKILL.md) 
   - [🤝 Sales Skills]
   - [📄 Document Skills](#-document-skills)
   - [🛠 Development \& Code Tools](#-development--code-tools)
