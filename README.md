@@ -1,8 +1,8 @@
 # Claude Skills
 
-## 📚 Skills Overview 
+## 🐆 Skills Overview 
 - [Claude Skills](#claude-skills)
-  - [📚 Table of Contents](#-table-of-contents)
+  - [🐬 Table of Contents](#-table-of-contents)
   - [📄 Document Skills](#-document-skills)
   - [🛠 Development \& Code Tools](#-development--code-tools)
   - [📊 Data \& Analysis](#-data--analysis)
@@ -10,7 +10,7 @@
   - [✍️ Writing \& Research](#️-writing--research)
   - [📘 Learning \& Knowledge](#-learning--knowledge)
   - [🎬 Media \& Content](#-media--content)
-  - [🏥 Health & Life Sciences](#-health--life-sciences)
+  - [🍀 Health & Life Sciences](#-health--life-sciences)
   - [🤝 Collaboration \& Project Management](#-collaboration--project-management)
   - [🛡 Security \& Web Testing](#-security--web-testing)
   - [🔧 Utility \& Automation](#-utility--automation)
