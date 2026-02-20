@@ -3,7 +3,7 @@
 ## 🐆 Skills Overview 
 - [Claude Skills](#claude-skills)
   - [🐬 Table of Contents](#-table-of-contents)
-  - [⚡️Marketing Skills] (#-sales.closer/SKILL.md) 
+  - [⚡️Marketing Skills] 
   - [🤝 Sales Skills]
   - [📄 Document Skills](#-document-skills)
   - [🛠 Development \& Code Tools](#-development--code-tools)
@@ -23,7 +23,7 @@
 ## ⚡️ Marketing Skills
 
 ## 🤝 Sales Skills
-- 
+-  [Sales Closer](./sales-closer/SKILL.md) - Specialized skill for handling objections and closing deals.
 
 ## 📄 Document Skills  
 - [docx](https://github.com/anthropics/skills/tree/main/skills/docx) - Create, edit, analyze Word docs with tracked changes, comments, formatting.  
