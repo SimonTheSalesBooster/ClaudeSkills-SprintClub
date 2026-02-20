@@ -149,6 +149,6 @@ If you have suggestions, improvements, or new resources to add:
 
 You can also open an **Issue** 🐛 if you spot something that needs fixing.
 
-## 📬 Contact
+## 👋 Contact
 
-If you want to contact me, you can reach me on [X](https://x.com/Behi_Sec).
+If you want to contact me, you can reach me on X (https://x.com/simonseverino).
