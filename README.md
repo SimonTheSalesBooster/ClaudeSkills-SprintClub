@@ -23,7 +23,7 @@
 ## ⚡️ Marketing Skills
 
 ## 🤝 Sales Skills
--  [Sales Closer](./sales-closer/SKILL.md) - Specialized skill for handling objections and closing deals.
+- [🤝 Sales Skills](sales-closer/SKILL.md) - Specialized skill for handling objections and closing deals.
 
 ## 📄 Document Skills  
 - [docx](https://github.com/anthropics/skills/tree/main/skills/docx) - Create, edit, analyze Word docs with tracked changes, comments, formatting.  
