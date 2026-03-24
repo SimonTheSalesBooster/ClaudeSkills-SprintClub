@@ -79,6 +79,15 @@ To run a skill in Claude Cowork:
 
 ---
 
+## Resources
+
+| Resource | What It Is |
+|----------|-----------|
+| [Full Options Trading Guide](https://docs.google.com/document/d/1wcsfuWcgfIqCHdttkZfgd3d_odsZCc4FK3XR2M-W_JE/) | Step-by-step guide for beginners. Covers the philosophy, the math, and the mechanics of selling options premium. Walk-through from zero to your first trade. |
+| [Trading Buddy Skill](https://github.com/SimonTheSalesBooster/trading-buddy) | Daily 10-minute AI trading check-in. Reads your spreadsheet, checks VIX, reviews positions, suggests trades. |
+
+---
+
 ## Built by Strategy Sprints
 
 These skills are designed for entrepreneurs and sales teams who want to accelerate their pipeline using AI. Built on the principles from the [Strategy Sprints methodology](https://www.strategysprints.com).
